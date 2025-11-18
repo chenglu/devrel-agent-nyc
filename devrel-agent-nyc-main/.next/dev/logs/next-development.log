@@ -1,0 +1,16 @@
+[00:00:00.583] Server  WARN     ⚠ Minimum recommended TypeScript version is v5.1.0, older versions can potentially be incompatible with Next.js. Detected: 5.0.2
+[00:00:00.696] Server  LOG      ✓ Ready in 439ms
+[00:00:08.683] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:09.207] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:09.207] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:09.207] Browser LOG     %c[Vercel Web Analytics]%c [pageview] https://fantastic-engine-4qpx4rrvp4fjgrw-3000.app.github.dev/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"https://fantastic-engine-4qpx4rrvp4fjgrw-3000.app.github.dev/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763497176438}
+[00:00:12.929] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:13.260] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:13.260] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:13.261] Browser LOG     %c[Vercel Web Analytics]%c [pageview] https://fantastic-engine-4qpx4rrvp4fjgrw-3000.app.github.dev/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"https://fantastic-engine-4qpx4rrvp4fjgrw-3000.app.github.dev/","r":"https://fantastic-engine-4qpx4rrvp4fjgrw.github.dev/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763497180575}
+[00:02:33.301] Server  ERROR   Claude API error: "Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+[00:02:33.568] Server  ERROR   Daytona validation failed: Error: Daytona API bad response: 404 text/html
+[00:07:28.085] Server  ERROR   Galileo evaluation failed: Error: Galileo API bad response: 404 application/json
+[00:07:28.182] Server  ERROR   Galileo evaluation failed: Error: Galileo API bad response: 404 application/json
+[00:07:28.265] Server  ERROR   CodeRabbit review failed: Error: CodeRabbit API bad response: 404 text/html
+[00:07:28.335] Server  ERROR   Galileo evaluation failed: Error: Galileo API bad response: 404 application/json
