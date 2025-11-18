@@ -103,10 +103,10 @@ All content is validated for accuracy, scored for quality, and reviewed for code
 | Service | Purpose | Required? | Status |
 |---------|---------|-----------|--------|
 | **Anthropic Claude** | Content generation & repo analysis | ✅ Yes | Implemented |
-| **GitHub API** | Repo metadata fetching | Optional | Implemented |
-| **Daytona** | Code validation in ephemeral envs | Optional | Mocked |
-| **CodeRabbit** | Code review & quality scoring | Optional | Mocked |
-| **Galileo** | Content evaluation & hallucination detection | Optional | Mocked |
+| **GitHub API** | Repo metadata fetching | ✅ Yes | Implemented |
+| **Daytona** | Code validation in ephemeral envs | ✅ Yes | Implemented |
+| **CodeRabbit** | Code review & quality scoring | ✅ Yes | Implemented |
+| **Galileo** | Content evaluation & hallucination detection | ✅ Yes | Implemented |
 
 **Note**: Without optional keys, the system falls back to mock data while still generating real content via Claude.
 
